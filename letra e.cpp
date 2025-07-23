@@ -1,0 +1,6 @@
+#include <stdio.h>
+ #include <stdlib.h>           
+  int main(){
+    printf("informe a temperatura em farenheit ");
+    scantf("%d" &farenheit);
+  }
