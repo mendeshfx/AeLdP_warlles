@@ -1,0 +1,8 @@
+#include <stdio.h>
+ #include <stdlib.h>           
+  int main(){
+    printf("Informe o valor do raio: ");
+    scantf("%d" &raio);
+    printf("Informe o valor da altura: ");
+    scantf("%d" &altura);
+  }
